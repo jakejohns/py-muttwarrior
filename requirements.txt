@@ -1,0 +1,8 @@
+argparse==1.2.1
+distribute==0.6.24
+python-dateutil==2.2
+pytz==2014.4
+pyxdg==0.25
+six==1.7.3
+taskw==0.8.3
+wsgiref==0.1.2
