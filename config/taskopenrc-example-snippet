@@ -1,0 +1,5 @@
+
+# Custom regular expression that specifies annotations passed to CUSTOM1_CMD, e.g:
+CUSTOM1_REGEX="Message-[Ii][Dd]:|message:"
+CUSTOM1_CMD="muttjumpwrapper"
+

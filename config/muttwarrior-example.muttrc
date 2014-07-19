@@ -1,0 +1,3 @@
+
+macro generic,index,pager ,t "<enter-command>unset wait_key<enter><enter-command>unignore message-id<enter><enter-command>push <pipe-message>muttwarrior<enter><enter>" "task in taskwarrior" 
+#  vim: set ts=4 sw=4 tw=80 ft=muttrc :
